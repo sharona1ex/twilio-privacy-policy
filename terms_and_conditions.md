@@ -16,9 +16,12 @@ The wedding is scheduled for November 21, 2026, at Prestonwood Baptist Church, P
 
 ## How to Opt In
 
-Guests may opt in by replying **YES** to a direct consent request from Sharon and Stephy. The consent request explains that the guest may receive wedding RSVP messages, including an RSVP link and up to two RSVP reminders.
+Guests may opt in by replying **YES** to RSVP request from Sharon and Stephy. The consent request explains that the guest may receive wedding RSVP messages, including an RSVP link and up to two RSVP reminders.
 
 Only guests who affirmatively reply **YES** are added to the Program’s automated SMS list. Consent to receive text messages is optional. Guests can receive wedding information through the WithJoy wedding website, email, WhatsApp, phone call, or other personal communication without opting in to SMS.
+
+<img width="801" height="820" alt="image" src="https://github.com/user-attachments/assets/c80c1d4a-67b4-4a35-bc44-6ee787803ca5" />
+
 
 ## Message Frequency
 
